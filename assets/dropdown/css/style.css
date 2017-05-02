@@ -180,7 +180,18 @@
     -ms-transform: translateX(-100%);
     -webkit-transform: translateX(-100%);
     width: 18.75rem;
-    z-index: 999; } }
+    z-index: 999; } 
+
+.navbar-dropdown.navbar-short .navbar-brand {
+    padding: 1.25rem 0; }
+
+
+}
+
+
+
+
+
 .nav-dropdown.navbar-toggleable-xl {
   bottom: 0;
   display: none;
